@@ -1,0 +1,20 @@
+body {
+background-color: beige;
+}
+
+.container-navbar {
+    background-color: red;
+    border-radius: 50px;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    margin: 5px;
+    padding: 20px;
+}
